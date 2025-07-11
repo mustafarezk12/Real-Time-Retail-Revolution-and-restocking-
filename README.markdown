@@ -1,5 +1,5 @@
 # Real-Time Retail Revolution: Pioneering a Scalable IoT Data Pipeline for Inventory Optimization
-
+![Architecture](arch.svg)
 ## Architecture Overview
 This project features a robust real-time data pipeline designed for a multi-branch retail environment. The architecture includes:
 - **Apache Kafka with KRaft** on AWS EC2: Central message streaming platform handling ~10-50 messages/second.
